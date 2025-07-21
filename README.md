@@ -10,7 +10,7 @@
 ---
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majimety&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majimety&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
