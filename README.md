@@ -10,12 +10,12 @@
 ---
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAMUKUKI&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majimety&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Jirayus's GitHub Stats
-[![Jirayus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAMUKUKI&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jirayus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majimety&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
