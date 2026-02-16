@@ -9,16 +9,6 @@
 
 ---
 
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majimety&layout=compact&theme=radical&cache_seconds=30"/>
-
----
-
-### Jirayus's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Majimety&show_icons=true&theme=radical&cache_seconds=30"/>
-
----
-
 ### Current Knowledge
 
 <p align="left">
