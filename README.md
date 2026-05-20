@@ -1,9 +1,16 @@
-<h1 align="center">Hi! Welcome to my Github, I'm Jira</h1>
-<p align="center"> ◈ I'm a Computer Engineering. ◈</p>
+<h1 align="center">Welcome to my Github, I'm Jira</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=D3D3D3&center=true&vCenter=true&width=500&lines=ATMOS+System+Developer;Real-Time+Monitoring+Systems;IoT+%7C+Backend+Engineering"
+    alt="Typing SVG"
+  />
+</p>
 
+<p align="center">Connect With Me</p>
 <p align="center">
   <a href="https://github.com/Majimety"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jirayus-ty-14a9a9293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jirayus.cvt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -36,7 +43,6 @@
   </li>
 </p>
 
----
 ### Current Learning
 
 <p align="left">
@@ -61,3 +67,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Majimety&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majimety&theme=tokyo-night&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF" alt="Contribution Graph" />
+</p>
