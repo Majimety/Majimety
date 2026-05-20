@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
+<img align="right" src="https://raw.githubusercontent.com/Majimety/Majimety/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
 ### Current Knowledge
 <p align="left">
